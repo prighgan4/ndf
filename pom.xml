@@ -61,10 +61,10 @@
                                 <rule>
                                     <limits>
                                         <limit>
-                                            <counter>INSTRUCTION</counter>
+                                            <counter>LINE</counter>
                                             <value>COVEREDRATIO</value>
-                                            <minimum>93%</minimum>
                                             <maximum>100%</maximum>
+                                            <minimum>85%</minimum>
                                         </limit>
                                     </limits>
                                 </rule>
